@@ -1,0 +1,28 @@
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\bin\Debug\SU Cafeteria.exe.config
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\bin\Debug\SU Cafeteria.exe
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\bin\Debug\SU Cafeteria.pdb
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU Cafeteria.csproj.AssemblyReference.cache
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU Cafeteria.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.Properties.Resources.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU Cafeteria.csproj.GenerateResource.cache
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU Cafeteria.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU Cafeteria.exe
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU Cafeteria.pdb
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.loginAs.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.FFMLoginForm.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.CFMLoginForm.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.CFMChangePassword.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.FFMChangePassword.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.FFM.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.FFMCard.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.FFMCheck.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.FFMDashboard.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.FFMFire.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.FFMHire.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.CFM.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.CFMCheck.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.CFMDashboard.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.CFMElect.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.CFMFire.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.SplashScreen.resources
+E:\Visual Studio\Project\SU Cafeteria\SU Cafeteria\obj\Debug\SU_Cafeteria.AboutUs.resources
